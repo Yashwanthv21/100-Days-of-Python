@@ -9,3 +9,7 @@ DataStructures and Algorithms using Python
 ## Day 2 - Quick Sort
 
 - The fastest sort as the name suggests.
+
+## Day 3 - Merge Sort
+
+- Divides the list into small parts and sorts them and combines them to form a sorted list.
