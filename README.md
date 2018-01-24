@@ -13,3 +13,7 @@ DataStructures and Algorithms using Python
 ## Day 3 - Merge Sort
 
 - Divides the list into small parts and sorts them and combines them to form a sorted list.
+
+## Day 4 - Insertion Sort
+
+- Compares each element with its left and swaps the positon accordingly.
