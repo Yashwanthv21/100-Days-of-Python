@@ -21,3 +21,7 @@ DataStructures and Algorithms using Python
 ## Day 5 - DFS Binary Tree
 
 - All 3 traversals of binary tree.
+
+## Day 6 - BFS Binary Tree
+
+- Breadth First Search on a Binary Tree.
