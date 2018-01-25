@@ -17,3 +17,7 @@ DataStructures and Algorithms using Python
 ## Day 4 - Insertion Sort
 
 - Compares each element with its left and swaps the positon accordingly.
+
+## Day 5 - DFS Binary Tree
+
+- All 3 traversals of binary tree.
