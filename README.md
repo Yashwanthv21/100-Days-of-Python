@@ -25,3 +25,7 @@ DataStructures and Algorithms using Python
 ## Day 6 - BFS Binary Tree
 
 - Breadth First Search on a Binary Tree.
+
+## Day 7 - DFS Graph
+
+- depth-first search on a graph
