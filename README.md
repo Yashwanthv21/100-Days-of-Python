@@ -29,3 +29,7 @@ DataStructures and Algorithms using Python
 ## Day 7 - DFS Graph
 
 - depth-first search on a graph
+
+## Day 8 - Decorators in Python
+
+- Decorators are used to abstract out code from functions.
