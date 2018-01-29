@@ -33,3 +33,7 @@ DataStructures and Algorithms using Python
 ## Day 8 - Decorators in Python
 
 - Decorators are used to abstract out code from functions.
+
+## Day 9 - BFS Graph
+
+- BFS on a graph
