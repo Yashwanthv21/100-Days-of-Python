@@ -37,3 +37,7 @@ DataStructures and Algorithms using Python
 ## Day 9 - BFS Graph
 
 - BFS on a graph
+
+## Day 10 - Binary Search 
+
+- Binary search in python
