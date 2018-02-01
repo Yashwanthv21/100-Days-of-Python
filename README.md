@@ -41,3 +41,7 @@ DataStructures and Algorithms using Python
 ## Day 10 - Binary Search 
 
 - Binary search in python
+
+## Day 11 - Heap Sort
+
+- Heap sort in python.
